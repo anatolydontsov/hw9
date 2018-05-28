@@ -13,3 +13,6 @@
 Использовал регулярное выражение: Нов.?город[а-я]* Всего упоминаний Новгорода нашел: 59
 ![](https://github.com/anatolydontsov/hw9/blob/master/12.png)
 ### Бонус
+Использовал регулярное выражение: ((([а-я]|")*(:|;|,|\.{,1}))|(\[)) заменил все вхождения на \g<2> \g<5>
+![](https://github.com/anatolydontsov/hw9/blob/master/15.png)
+![](https://github.com/anatolydontsov/hw9/blob/master/16.png)
