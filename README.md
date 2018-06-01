@@ -2,7 +2,7 @@
 ## №1
 #### В notepad++
 Использовал регулярное выражение: \n\r\s+ заменил все вхождения на \0
-![](https://github.com/anatolydontsov/hw9/blob/master/20.png)
+![](https://github.com/anatolydontsov/hw9/blob/master/19.png)
 ## №2
 #### В notepad++ 
 Использовал регулярное выражение: [А-Я][а-яѣ]{1,}слав([а-яѣ]{1,})? Всего упоминаний о князьях нашел: 592
